@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">fakedouyu</string>
+    <string name="title_activity_flashing">FlashingActivity</string>
 </resources>
